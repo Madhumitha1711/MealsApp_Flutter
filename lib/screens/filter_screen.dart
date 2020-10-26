@@ -63,7 +63,7 @@ class _FilterScreenState extends State<FilterScreen> {
                       _glutenFree = val;
                     });
                   },
-                  title: Text('gluten_free'),
+                  title: Text('Gluten Free'),
                 ),
                 SwitchListTile(
                   value: _lactoseFree,

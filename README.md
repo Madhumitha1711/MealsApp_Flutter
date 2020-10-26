@@ -45,9 +45,9 @@ Users can view recipes for a variety of food items across various cuisines. The 
 
 ## Setup
 
-*Clone Project from github
-*Install Android Sdk Manger and run android virtual device 
-*Run `flutter run` . App automatially loads in any connected device.
+* Clone Project from github
+* Install Android Sdk Manger and run android virtual device 
+* Run `flutter run` . App automatially loads in any connected device.
 
 ## Features
 
