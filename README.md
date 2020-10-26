@@ -1,16 +1,69 @@
-# meals_app
 
-A new Flutter project.
+# Meals App
 
-## Getting Started
+> Mobile App that lets user to view recipes for a variety of food items across various cuisines
 
-This project is a starting point for a Flutter application.
+## Table of contents
 
-A few resources to get you started if this is your first Flutter project:
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## General info
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Users can view recipes for a variety of food items across various cuisines. The application also allows user to add the recipe to favourites or filter recipes based on meal selection.
+
+## Screenshots
+
+1.Home Screen
+![Home Screen](./screenshots/categoriesScreen.png)
+
+2.Category Screen
+![Category Screen](./screenshots/singleCategory.png)
+
+3.Recipe Screen
+![Category Screen](./screenshots/recipe.png)
+
+3.Favourite recipes screen
+![Favourite Screen](./screenshots/favouritesScreen.png)
+
+4.Sidebar
+![Sidebar](./screenshots/drawer.png)
+
+5.Filter Recipes screen
+![Filter screen](./screenshots/filterScreen.png)
+
+## Technologies
+
+* Flutter
+* Dart
+* Visual Studio Code
+* Android Virtual Device (AVD)
+
+## Setup
+
+*Clone Project from github
+*Install Android Sdk Manger and run android virtual device 
+*Run `flutter run` . App automatially loads in any connected device.
+
+## Features
+
+Features ready for users,
+
+* User can view all meal categories
+* User can view recipes
+* User can add recipe to favourites
+* User can filter recipes based on meal selection
+
+To-do list,
+
+* Ability to add new recipes
+* Add login functionality.
+* Integrate with backend (firestore) for database
+
+## Status
+
+Project is: _in progress_
